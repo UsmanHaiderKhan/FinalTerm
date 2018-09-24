@@ -18,7 +18,7 @@
             android:id="@+id/girdtext"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Grid View Text"
+            android:text="Lk' DashBoard"
             android:textSize="34sp"
             android:layout_centerInParent="true"
             android:textColor="@color/colorPrimary"
