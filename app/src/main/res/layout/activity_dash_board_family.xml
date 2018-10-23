@@ -46,6 +46,7 @@
             android:layout_marginLeft="16dp"
             app:cardElevation="8dp"
             app:cardCornerRadius="8dp"
+            android:onClick="myinfo"
             >
 
             <LinearLayout
@@ -59,7 +60,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_perm_identity_black_24dp" />
+                    android:src="@drawable/couple" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -95,12 +96,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_perm_identity_black_24dp" />
+                    android:src="@drawable/family" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Me"
+                    android:text="Family"
                     android:textAlignment="center"
                     android:textColor="@color/colorPrimary"
                     android:textSize="18sp"
@@ -131,12 +132,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_perm_identity_black_24dp" />
+                    android:src="@drawable/donation" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Me"
+                    android:text="Lovely"
                     android:textAlignment="center"
                     android:textColor="@color/colorPrimary"
                     android:textSize="18sp"
@@ -167,12 +168,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_perm_identity_black_24dp" />
+                    android:src="@drawable/team" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Me"
+                    android:text="Team"
                     android:textAlignment="center"
                     android:textColor="@color/colorPrimary"
                     android:textSize="18sp"
@@ -203,12 +204,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_perm_identity_black_24dp" />
+                    android:src="@drawable/friend" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Me"
+                    android:text="Friends"
                     android:textAlignment="center"
                     android:textColor="@color/colorPrimary"
                     android:textSize="18sp"
@@ -239,12 +240,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_perm_identity_black_24dp" />
+                    android:src="@drawable/calendar" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Me"
+                    android:text="Calender"
                     android:textAlignment="center"
                     android:textColor="@color/colorPrimary"
                     android:textSize="18sp"
